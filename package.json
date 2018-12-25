@@ -1,0 +1,25 @@
+{
+  "name": "hello-world_jsonwebtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhuafei/hello-world_jsonwebtoken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhuafei/hello-world_jsonwebtoken/issues"
+  },
+  "homepage": "https://github.com/zhouhuafei/hello-world_jsonwebtoken#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "redis": "^2.8.0"
+  }
+}
